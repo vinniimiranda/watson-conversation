@@ -1,10 +1,10 @@
-# Watson sample chatbot
+# Watson chatbot
 
 Chatbot utilizando o Watson Assistent em Node.js
 
 ![chat-example](https://cdn-images-1.medium.com/max/800/1*iatsJpNf38Kix_In0ddw3g.gif)
 
-# Intructions
+# Instruções
 
 Crie o arquivo `.env` com o mesmo conteúdo de `.env.example` e adicione suas chaves.
 
